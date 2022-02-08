@@ -1,6 +1,6 @@
 <h1>Salve, Dev. Me chamo Carlos Miguel<h1>
 
-- Sou estudante de front-end e estou sempre buscando me aprimorar como desenvolvedor!
+- Sou estudante de Front-End e estou sempre buscando me aprimorar como desenvolvedor!
 <br>
 <a href="https://github.com/carlosgoes05">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosgoes05&layout=compact&langs_count=7&theme=dark"/>
